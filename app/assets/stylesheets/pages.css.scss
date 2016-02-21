@@ -1,0 +1,77 @@
+* {
+  margin:0;
+  padding:0
+}
+
+body,html {
+  font-family:'Roboto', sans-serif;
+  font-weight:300;
+  height:100%;
+  width:100%
+}
+
+a.btn {
+  background-color:rgba(0,0,0,0.9);
+  border-radius:0;
+  color:#fff;
+  font-size:18px;
+  font-weight:100;
+  height:60px;
+  line-height:60px;
+  margin:40px 0;
+  padding:0;
+  transition:background-color .5s;
+  width:200px
+}
+
+li {
+  text-decoration:none;
+  display:inline;
+  line-height:100px;
+  font-size:18px;
+  font-weight:500;
+  line-height:100px;
+  height:100px;
+  margin:0 20px 0 0
+}
+
+li a { 
+  color:#000
+}
+
+h1 {
+  color:#000;
+  font-size:18px;
+  line-height:100px;
+  height:100px;
+  margin:0;
+  text-align:right
+}
+
+.footer {
+  background-color:#fff; 
+  height:200px;
+  text-align:right;
+  width:100%
+}
+
+.footer .social_media {
+  margin:65px 0 20px;
+  width:100%
+}
+
+.github {
+  background-image:url("https://photos-3.dropbox.com/t/2/AACh9FpMMSJW-4n13hR4LKGtz3-6Lu0ZFqdqx7Pfe0HydQ/12/397702818/png/32x32/1/_/1/2/github-logo.png/EJuirZYDGAMgBygH/S7O-8Zy4xYiyHZmdZwpM5IjFcATOhjSuJXb6D5ONG1k?size=1024x768&size_mode=3");
+  background-position:center center
+}
+
+.linkedin{
+  background-image:url(/assets/linkedin-be22eb82414f9f637debbe2d64c301cb.svg);
+  background-position:center center
+}
+
+.jumbotron {
+	background-image:url(http://www.meghantelpner.com/wp-content/uploads/2013/07/2596-sunshine-1920x1080-nature-wallpaper.jpg);
+}
+
+
